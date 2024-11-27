@@ -1,0 +1,5 @@
+num = int(input("enter a number"))
+#print(type(num))
+num = str(num)
+#print(type(num))
+print(num,"has",len(num),"digits")
